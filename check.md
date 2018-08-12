@@ -2,9 +2,9 @@
 
 I am a noob who is just here to entertain a bunch of people
 
-#Why do i bother with this
+# Why do i bother with this
 
- ##My reasons:
+## My reasons:
         
 * To demonstrate
 * To this bunch of keeds
